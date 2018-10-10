@@ -1,0 +1,4 @@
+init param -> POJOMappingfeature -> true
+dependency -> jdbc
+dependency -> jersey
+dependency -> jackson
